@@ -1,7 +1,7 @@
 <h1 align="center"> こんにちは (Hello) , I'm Hackmonker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">Just an aspiring drug dealer trying out whatever tickles my tastebud</h3>
+<h3 align="center">Just an aspiring drug dealer trying out whatever tickles my tastebud 😉</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackmonker&label=Profile%20views&color=0e75b6&style=flat" alt="roshanconnor123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackmonker&label=Profile%20views&color=0e75b6&style=flat" alt="hackmonker" /> </p>
 
 - ❤️ Anime ftw
 
