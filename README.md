@@ -1,7 +1,7 @@
-<h1 align="center"> こんにちは (Hello) , I'm Hackmonker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> こんにちは (Hello) , I'm Hackmonker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Just an aspiring drug dealer trying out whatever tickles my tastebud</h3>
 
-![](https://hit.yhype.me/github/profile?user_id=46002790)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackmonker&label=Profile%20views&color=0e75b6&style=flat" alt="roshanconnor123" /> </p>
 
 - ❤️ Anime ftw
 
@@ -24,6 +24,7 @@
 hackmonker/hackmonker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackmonker&show_icons=true&theme=gotham)
