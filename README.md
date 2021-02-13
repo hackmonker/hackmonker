@@ -11,10 +11,11 @@
 
 - 💬 Ask me about **Docker Stuff**
 
+- 📫 Contact me at **hackmonker@iamshuvs.eu**
+
 <p align="left">
-<h3 align="left">Connect with me:</h3> 
-<a href="https://discord.gg/yBDm2VPeED"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>   <a href="emailto:hackmonker@iamshuvs.eu"><img src="https://img.shields.io/static/v1?logo=gmail&label=&message=Email&color=e4b7a0&style=flat-square" alt="Discord"></a>
-  <a href="https://t.me/nice_guyasshole"><img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=292f35&style=flat-square" alt="Telegram"></a>
+<h3 align="left">Find me here:</h3> 
+<a href="https://discord.gg/yBDm2VPeED"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> <a href="https://t.me/nice_guyasshole"><img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=292f35&style=flat-square" alt="Telegram"></a>
 </p>
 
 <p align="left">
