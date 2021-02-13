@@ -13,7 +13,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3> 
-<a href="https://discord.gg/yBDm2VPeED"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>   <a href="hackmonker@iamshuvs.eu"><img src="https://img.shields.io/static/v1?logo=gmail&label=&message=Email&color=white&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/yBDm2VPeED"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>   <a href="hackmonker@iamshuvs.eu"><img src="https://img.shields.io/static/v1?logo=gmail&label=&message=Email&color=cream&style=flat-square" alt="Discord"></a>
   <a href="https://t.me/nice_guyasshole"><img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=292f35&style=flat-square" alt="Telegram"></a>
 </p>
 
