@@ -22,7 +22,7 @@
 
 <p align="left">
 <h3 align="left">My Preferred Tools</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png" alt="docker" width="180" height="150"/> </a> <a href="https://archlinux.org/" target="_blank"> <img src="https://i.imgur.com/9hAigIA.png" alt="archlinux" width="160" height="140"/> </a> </p>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png" alt="docker" width="200" height="150"/> </a> <a href="https://archlinux.org/" target="_blank"> <img src="https://i.imgur.com/9hAigIA.png" alt="archlinux" width="160" height="140"/> </a> </p>
 <!---
 hackmonker/hackmonker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
