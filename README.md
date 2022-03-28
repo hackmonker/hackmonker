@@ -22,7 +22,7 @@
 
 <p align="left">
 <h3 align="left">My Preferred Tools</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png" alt="docker" width="250" height="150"/> </a> <a href="https://archlinux.org/" target="_blank"> <img src="https://i.imgur.com/9hAigIA.png" alt="archlinux" width="160" height="140"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!---
 hackmonker/hackmonker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
