@@ -1,12 +1,12 @@
 <h1 align="center"> こんにちは (Hello) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hackmonker</h1>
-<p align='center'>
-<img src="https://lanyard.kyrie25.me/api/437688173481558027"/>
-</p> 
 <h3 align="center">Just an aspiring drug dealer trying out whatever tickles my tastebud 😉</h3>
 <h3 align='center'><a href="https://shuvsp.me">Portfolio</a></h3> 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hackmonker&show_icons=true&theme=dark&borderRadius=30px&bg=4c1f70&idleMessage=Probably%20doing%20something%20else..." width="520"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmonker&layout=compact&theme=dracula&langs_count=8"  height="220"/>
+<img src="https://lanyard.kyrie25.me/api/437688173481558027?theme=dark&borderRadius=9px&bg=282a36&idleMessage=Probably%20making%20meth%20somewhere...."/>
+</p> 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hackmonker&show_icons=true&theme=dracula" width="520"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmonker&layout=compact&theme=dracula&langs_count=8"  height="216"/>
 </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hackmonker&label=Profile%20views&color=0e75b6&style=flat" alt="hackmonker" /> </p>
 
