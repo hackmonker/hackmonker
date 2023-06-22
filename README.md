@@ -5,8 +5,8 @@
 <img src="https://lanyard.kyrie25.me/api/437688173481558027?theme=dark&borderRadius=9px&bg=282a36&idleMessage=Probably%20making%20meth%20somewhere...."/>
 </p> 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hackmonker&show_icons=true&theme=dracula" width="520"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmonker&layout=compact&theme=dracula&langs_count=8"  height="216"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hackmonker&show_icons=true&theme=dracula" width="410"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmonker&layout=compact&theme=dracula&langs_count=8" width="400" height="170"/>
 </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hackmonker&label=Profile%20views&color=0e75b6&style=flat" alt="hackmonker" /> </p>
 
